@@ -1,0 +1,18 @@
+## WRITE A PSEUDOCODE TO FIND THE LARGEST OF TWO NUMBERS.
+
+ 
+BEGIN
+ 
+  NUMERIC nNum1,nNum2
+  DISPLAY "ENTER THE FIRST NUMBER : "
+  INPUT nNum1
+ 
+  DISPLAY "ENTER THE SECOND NUMBER : "
+  INPUT nNum2
+ 
+  IF nNum1 > nNum2
+    DISPLAY nNum1 + " is larger than "+ nNum2
+  ELSE
+   DISPLAY nNum2 + " is larger than " + nNum1
+ 
+END
