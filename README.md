@@ -15,4 +15,5 @@ Feel free to explore my work, provide feedback, or connect if you share similar 
 
 Looking forward to collaborating and learning together!
 
-[image.(https://www.pngegg.com/en/png-nykpghttps://www.pngegg.com/en/png-nykpg)]
+[image.(![image](https://github.com/user-attachments/assets/af7e0258-82bb-4a82-b173-53f89cbd949d)
+)]
