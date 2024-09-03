@@ -14,3 +14,5 @@ Problem Solving: Thrives on solving complex problems and finding creative soluti
 Feel free to explore my work, provide feedback, or connect if you share similar interests. I'm excited to share my journey and contribute to the tech community!
 
 Looking forward to collaborating and learning together!
+
+!](https://www.pngegg.com/en/png-nykpghttps://www.pngegg.com/en/png-nykpg)
